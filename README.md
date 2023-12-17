@@ -682,7 +682,7 @@ root@baranovsa:/home/baranovsa/8.5_testing/playbook/roles/vector-role#
 
 5. Добавьте новый тег на коммит с рабочим сценарием в соответствии с семантическим версионированием.
 
-[1.1.0]()
+[1.1.0](https://github.com/12sergey12/vector-role/releases/tag/1.1.0)
 
 ### Tox
 
